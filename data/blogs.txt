@@ -1,0 +1,586 @@
+Hi folks!! Firstly congrats on just clearing one of the toughest exams of India. Now before you equate IIT = Placements...please read this.
+
+ Well, firstly IIT is and was never about PLACEMENTS. IIT's are always about "knowledge". The knowledge and insight to subject that you get here is priceless!! This knowledge is going to be your modus operandi for anything you do after your 4yrs. This knowledge is what you must have thirst for.
+
+ I saw that almost 75% of you were interested in getting CSE branch. Its ok that many of you may be having in coding or computers...that's not an issue. But truly speaking, your choices were driven by hefty pay packages given to CSE grads. Like the average package for a CSE student here is 24lpa. Isn't it intimidating?
+
+  If you carry on your 4 yrs with this attitude, then sorry but you cannot go anywhere with this. Even students getting hefty packages have done very very hard work to achieve that.
+
+  No branch is bad or good. Placements are just a very small part of them. Moreover, doing a job (provided your financial condition is not that bad) after your graduation is a waste of your potential.   Irrespective of any branch you are from, you will get equal opportunities. Each year, students from each branch go for masters in some of the world's best colleges - MIT, Stanford, Harvard, Purdue, Cornell, etc. Of course, you can also go there, provided you change your former attitude.
+Take example of Biotech - Out of a batch of 48-50 students, 3-4 of your batch mates will definitely be going for higher studies in ivy league colleges , as they go each year.(MIT, Stanford, Cornell etc.). And this story is of every branch, be it CSE, Mechanical, Electrical, Biotech, Civil, Design etc.
+
+  The best attitude would be - be thirsty for knowledge from your 1st day. Question everything? Why is this? How is this? Reach to the root of everything to get a better understanding. Next, after your base is complete, try to advance your knowledge by reading foreign author books and research papers of your favorite topic.
+
+Lastly, never study for marks - always for knowledge. Marks will automatically be reflected in your answer sheet. I know i am speaking like "3 idiot" movie, but believe me, i am a 9 pointer till now with this methodology only. And its never about pointers...these can and will never define your true knowledge. Give your best...and rest will be assured.
+
+Hi folks!! Hope your midsems went fine. Till now you have probably got a feel of what its like to give exams and score a CPI in IIT.
+
+Many of you must be confused about what are minor courses and how are the helpful? While there must be some of you who do not know anything about them. So this post is to help you to guide through your confusions so that you can clarify your doubts.
+
+
+What is exactly a minor course?
+ A minor course gives you an extra course per semester (till 7th sem). In your bachelor's degree, it will be mentioned as - " Bachelor of Technology in XXX(your department)XXX with an specialization in XXX(your minor course)XXX". These have efficently designed course structures which provides you an insight and some fundamental concepts of the branch in which you have taken your minor.
+
+Is there any criteria for getting desired minor?
+Yes...basically only for CSE minor. For it, you need at least a cpi of 8.4+. While other minor courses are easy to get.
+
+What is the course structure and routine?
+For course structure go to intranet>>sections>>academic>>minor course structure and syllabi
+You will be having classes for minor from 12 to 1 pm on Mondays, Wednesdays and Fridays. Each sem's minor course will be of 6 credits (in maths minor, 5th sem is of 8 credits), so they also add up quite efficiently to your cpi.
+
+Which minor is best for me?
+Note that you cannot take an audit course in minor. If you have interest in any particular stream, the do choose that minor. Otherwise general trend is that  - 
+CSE minor: Mostly students form all branches who have interest in coding can take it.
+EE minor: Generally mechanical students prefer EE minor.
+Design Minor: Truly speaking, an efficient way to improve your grades as minimum grade you can get is 9. So either students who want to improve their grades or machanical students interested design.
+Maths and other Minor: Quite an interesting deal if you really love maths.Generally take by mixed students. 
+
+ Is minor helpful in placements?
+Now comes the big question!! You see, minor course concept was started in year 2010. So our now graduating seniors are the first breed of with minor courses. So this time, companies didn't know that what is the significance of minor. So the situation still remains dubious over the question.
+
+Can i drop the minor course ?
+No doubt minor course load will be heavy as it is actually one extra course per sem. But here is the sunshine - you can drop a minor course in any sem you want to. Now this has some consequences - 
+
+1. You can drop a minor course only before its last date, which is around 2nd week after midsems. So say if you like your 3nd sem minor course and wish to continue, but when you come to 4th sem and you find it pretty hard to continue, the you can drop it in the fourth sem also. Basically you can drop it in any sem before the last date.
+
+2. If you wish to drop it, then there wont be any mention of specialization in minor field or courses in the degree....even if you drop it in you last sem!!
+
+3. Suppose your cpi gets effected due to your minor grades for 2 sems, and you wish to drop it now in 3rd sem, then the damage done by the minor grades in your previous sems will NOT revert back.
+
+
+Hope the above info has cleared many of your doubts. If  you want to get more info on this topic, then do comment under this post.
+
+Well, i hope your first sem is going well... and many of you are scoring quite enough to stay above 8.2 to 8.5.
+   Note that you should not get disappointed even  if you get a bit lower cpi in first sem, because second sem can make a hell lot f difference!!!
+ Also this post is not only for branch changers but also for those students who want to score better in 2nd sem.
+
+     If you ask any of your senior, then they will say that second sem is very tough. But believe me, its really not that tough. at first, it may seem a bit hard to pull through it because unlike first sem, most of the things in 2nd sem will be new to you. But they are interesting, typical but interesting !!!
+
+ Now talks apart. In second sem, you will be having 5 subjects and 3 labs, totaling to a credit of 43. Firstly look at you course structure from here -
+ 
+ BT 101  Modern Biology (3-1-0-8)                                                                         
+ Diversity in biological systems; cell biology and cell structure; biological membranes; bioenergetics;  genetics: DNA as genetic material; structure of DNA; DNA replication; transcription; translation; genes to proteins and to protein function; gene expression and regulation; recombinant DNA technology. Human physiology: biological axons and neurons, neuromuscular and synaptic junctions; sensory systems - hearing, taste, smell and visual receptors.
+Textbooks:
+[1] J. L. Tymoczko, J. M. Berg and L. Stryer, Biochemistry, 5th Ed, W. H. Freeman & Co, 2002.
+[2] D. L. Nelson and M. M. Cox, Lehninger Principles of Biochemistry, Macmillan Worth, 2000. 
+References:
+[1] N. Hopkins, J. W. Roberts, J. A. Steitz, J. Watson and A. M. Weiner, Molecular Biology of the Gene, 4th Ed, Benjamin Cummings, 1987.
+[2] C. R. Cantor and P. R. Schimmel, Biophysical Chemistry (Parts I, II and III), W.H. Freeman & Co., 1980.
+[3] C. C. Chatterjee, Human Physiology, Vol 1 & 2, 11th Ed, Medical Allied Agency, 1987)
+
+Although all subjects are equally important, the game changers will be CS101, CS110, BT201 and PH102!!
+
+Now how to study "efficiently" for them ??
+
+As i have done in my previous posts, i will be giving subject wise tops for each of them -
+
+1. CS101 and CS110 - I am putting these two together simply because they cannot be separated!! In theory course , you will be learning basic and advanced C programming.
+       Lab will be a three hour session in CC where you will be given a problem to solve using C language. Your final code for problem will be analyzed and marks will be given out of 100 for each lab.each student can carry a book of c programming with him in the lab.  However first two labs will be for basic linux commands.
+  Now this looks pretty simple,right ? i mean learn C in theory class and apply in lab. But everything is not that simple. Usually they will teach very elementary in class and will give probs in lab which will be quite advanced!!
+  These two courses are nightmares for most of the students during 2nd sem and can create a hell lot of difference. Now how to efficiently cope them??
+  For that two cases arise -
+   1. You know C or equivalent computer language already. This maybe because you might have learned it in +2 or somewhere else. If this is the case, then believe me you will have a very good advantage over others.
+ 2 . Now problem arise when you DO NOT know C beforehand. For that you need to provide some input from your side in winter holidays, i.e, read the book "Let Us C - By Yashwant Kanetkar". You can buy it from here - (its latest edition) Complete this book and do all its problems and i promise you that 9 or 10 in both CS110 and CS101 is sure. Another book is "Mastering C by E balaguruswamy". But i prefer let us c.
+
+Some portion of this course is not provided in any book. so you need to understand them by researching on google.
+ Note that it would be good if you can install CodeBlocks (software to run C programme) or Ubuntu (Linux) before going to home so that you can practice C at home.
+
+2.PH102 -  Just like previous sem, in this sem you need to follow "Griffiths - Intro to electrodynamics". This book will be more than enough. Note that PH102 will be completely new topic to you. Apart from basic electrodynamics that you read in +2 (which is infact a very little part), there are many other thing and horrifying equations( atleast on first look), which are not that hard if you follow them regularly. Attend all tutorials and solve them wisely. And yes, do all the relevant back questions, chapter questions and examples of the book at least 3 times!!
+
+3. ME101 - This is mostly mechanics that you read in 11th class. So no hard deal for you. Things are simple and easy. You can follow NPTEL (CLICK HERE) course modules or yhe slide give by your prof. Also i preferred "Merriam and Kreige' book as its theory and examples were pretty good. Do solve them.
+  There will be a tutorial which will be graded ,i.e, you will be given 10 questions, 5 to solve in class and 5  as home assignment. Please do go in the first tutorial, as it will be held BEFOR  the first class, so do not skip it.
+
+4. MA102 - Course is divided in two - ordinary differential equations (ODE) and multivarable calculus. For former, go for Ross and for latter , i prefer Fitzpatrick (this book is not referred but i found it really useful ). For MA102 , lecture slide would be more than enough, plus tutorials ar sufficient. Avoid silly mistakes in as compared to MA101, this is easier so cutoff will go high!!
+
+5. BT201 - Now i am t sure whether you all are having this course or not because prof told that they will be removing the course from next sem or either diluting it. This course is divided in three parts - genetics, heredity and evolution, and biochemistry.
+  For heredity part, slides will be given but hang on!! Here is the catch. Many of the slides will only have pictures in them and their description will be give to you in class by prof. So DO NOT FORGET TO WRITE THAT in your copy. Similarly for genetics part. If you write every explanation what the prof says, then you will have a great advantage at the time of exams.
+  There will be no quiz!! Just endsem and midsem.
+ Reference book to be used is "Lehringer (confirm the spelling) ". Only some portion of this book is useful to you. I referred it only for genetics part and it proved very useful. 
+
+6.EE102 -This is electricals lab where yo would be making simple basic circuits like HWR, FWR, etc.Its pretty easy. Group of three will be formed. You will also be having viva for each experiment (or maybe not, it depends on TA). The important part part this lab is the midsem. It will be kind of objective paper where you will be asked basics of experiments that you have done. So if you score 18 or 19 out of 20 in it, then 10 is sure in this lab.
+
+I think this will be all for second semester!!
+Suggestions and edits are always welcome!! :) 
+
+Now i see most of you are confused about this-
+
+You see what the whole thing is-
+
+Actually it goes like this that you go for a lecture. Now the professor will teach you a chapter using presentation as pdf or power point files. After teaching you, he will upload those slides on the intranet from where you can download and read them . Also a print out of these slides will be made available in the stationary shop of academic complex from where you can get them xeroxed and read them.
+If you do not want to read the slides from hard copy, then you can read from soft copy by downloading the slides from the intranet. Now here is where laptops is useful. Either you can go to computer center, sit on a computer, download the slides on it and then read them. Or if you have a laptop, then you can download the slides on the laptop, sitting in your room itself, from the lan connection provided in each room.
+Advantage of laptop comes from the fact that say you are having an exam 8'o clock in the morning and say if you want to wake up early around 5 and revise, then going early morning to computer center is harder than revising from your own laptop (keep in mind you still have hard copy option left) . 
+Moreover, you can find previous year question papers, e books and many more stuff on dc++ which you cannot find on a computer of computer center as dc is not allowed in computer center.
+As far as talking about distractions, I got my laptop the very first day and I also aimed for branch change. I controlled myself not to play addictive games, watch too much movies and not to do fb for long. Finally I got my branch changed. So its all about control. Here you will find both kind of students : getting 9+ by studying from xerox notes and also getting 9+ by studying via laptop. 
+Note that a laptop is not required for distraction. I have also seen students who have ruined there first year because they got addicted to YouTube. The used to watch continuous videos sitting in computer center.
+Dude its all about you and your control. Final result will depend on it!!
+
+Well, personally speaking, you all are IITians so its meaningless to give study tips to the brightest minds on India.
+ But then also, many among this "brightest" lot will commit mistakes, however unknowingly, and will end getting a spi or cpi of around 7.5-8 ,which is not enough in this cut throat competition.
+
+Note : That this section is not only for branch changers but also for students who want to get 9+ cpi.
+
+You see course in JEE , however big, was unidirectional and properly channelized. However course structure in IITs is multi-directinal. So you cannot go into detail of every single thing or you`ll end up doing Phd!! 
+
+So now back to business!! - 
+
+Firstly go through this link where you will find your 1st semester course structure and description.
+
+http://www.iitg.ac.in/phy/sites/default/files/phyoff/Engg_Physics_Syllabus_Core_Course_.pdf   
+ ( first page only that is only PH101)
+
+http://www.iitg.ac.in/mech/ME_UG_Curriculum.pdf
+(first and second page, only CH101,ME110, and ME111 )
+
+http://www.iitg.ac.in/eee/btechsyllbusece2010.html
+(EE101 only )
+
+http://www.iitg.ac.in/maths/acads/btech_struct.php?id=MA101#MA101
+(MA101 only)
+
+OK, so now you know what courses you`ll study.
+
+Regarding  books-
+
+You see, in each of above links, books list is also provided. However only a few of them are important - 
+
+1.D. Kleppner and R. J. Kolenkow (first book in the list). This book is like a bible if you want to score 10 in physics which can be easily done. For physics this is more than enough.
+
+2.Note that for chemistry, no book is required. i will tell you why in further discussion.
+
+3.Dhananjay and jolhe or N.D Bhatt, any one of these can be used for engineering drawing.
+
+4.D.Poole linear algebra , Bartle and Sherbert for real analysis, both are important. the latter one is important after midsem.
+
+5.Listen, no book is required for EE but students do face problem sometimes in it. so for reference only, you can use Boylestad or Tocci, any one of these.
+
+How to get these books-
+
+As students are more , so library cannot have 700 copies of each book, thats unreasonable!! So better you issue them early. Now there are two methods to issue -
+   If you have any cousin or friend studying in iit guwahati, then ask him to issue these books for you from his i-card, as you wont be having your own i-card. Otherwise, wait to get your i-card.
+  Now there is another way to get books. Your hostel library. each hostel has a small library and very rarely students go and search there. However you will find all of the above books there.
+ E-copies of these are equally good which can be found on DC++.
+
+How to study??
+
+1. Go to class and tutorials regularly. This is very very important. If you solve all tutorials, especially of maths, chemistry and EE, you can very easily score 9-10 in these.
+
+2 Subject-wise tips-
+
+2.1 Physics - 
+
+Kleppner and Kolenkov is your bible. Solve each and every question of it almost 4 times. And then  if you do not get 10 in physics, then i will shut my blog!!
+
+2.2 Chemistry - 
+
+Don`t worry about it. Lecture slides are more than enough. In physical chem, whatever questions and theory the prof will tell you to solve in class or tutorial, SAME questions will be there in your exam. Also for inorganic and organic, lecture slides plus tutorials are more than enough. Now you can see why tutorials are important. Do not go into books or you`ll surely waste your time.
+
+2.3 Maths - 
+
+D.Poole before midsems and Bartle and Sherbert after midsems are like bible. You see, solve every question of tutorials and D.poole. 
+ You see, topic taught after midsem (real analysis) is kind a vague topic. But if you read Bartle and sherbert, especially its examples are very important, then this topic will appear very easy to you. again if you follow this, 9-10 in Maths is sure.
+
+2.4 Engineering Drawing - 
+
+You will be having regular lab sessions for ED, where you will be getting marks for each lab drawing. Now these marks do count seriously, you will come to know afterwards. So do make them seriously. 
+ Before going to lab, do read and UNDERSTAND the relevant topic from Dhananjay and Jolhe or ND Bhatt.
+
+2.5 Electronics - 
+
+Tutorials are again very important for this. Also if you do not understand any topic in it, do clarify it very clearly with tutors or this will create a hell lot of problem. You can use books as a reference.
+
+2.6 Labs - 
+
+VERY VERY IMPORTANT. Students generally ignore labs as it has low weight-age. But believe me, these will create a huge difference if you do not take them seriously. For chemistry lab, note the applications and initial preparations in advance (you will come to know what are these). In physics, do error calculations carefully and make the initial preparation always. In workshop, if you get your viva done properly , then 8-9 is sure in workshop. For workshop, use Elements of workshop technology ( ab blue coloured book). Just read this before viva. NEVER MISS A LAB SESSION.
+
+
+MISTAKE THAT STUDENTS DO-
+
+Firstly, night-out studies are worthless. Many students study from 12 night to 6 morning and then sleep in the morning. This is a very BAD practice. All you will get is 6-8 cpi from this. Please avoid this.
+Secondly, never miss a class and a tutorial. Always keep solutions of all tutorials with you.
+
+Thirdly, Students do not take the labs seriously and end up getting 6-7 in each lab. VERY BAD!! This will create a huge difference ( my personal experience ).
+
+Fourthly, Do enjoy!!. Not that you study whole time. There are students who study only for few hours, enjoy games and chats with friends and still score 9.78!! (its real)
+
+Lastly, Never give up. Even if you get around 8-8.3 in 1st sem, you are not out of the game. You are very much in. Think of getting 9+ in second sem.
+
+
+Festivals and Events at IIT guwahati.... 
+I will not discuss much on this as this is one thing that you must and will discover on your own.
+ There are two inter college festivals that define every iit-
+
+TECHNICHE- This the annual techno-management event organized by IITG and is  very famous all over India. Its a technical event. Technothlon, the inter school exam comes under this.
+                                           www.techniche.org
+
+ALCHERLINGA-Just fab!!. Its a cultural event , and biggest in North East India. Its just awesome.
+                                             www.alcheringa.in
+
+In addition to these, there are 3 main inter hostel events-
+
+KRITI - Its a technical event. Many activities including robotics, case study, etc. comes under it. You will learn greta deal from it and will interact with your 4th yearites.
+
+MANTHAN - Just dont ask what is manthan!!. Its the hostel spirit at its best, at its peak. Its a cultural event where everybody take part and is highly enjoying.
+
+SPARDHA - Its inter hostel sport`s competetion.
+
+Moreover note that festivals like HOLI, and DIWALI are celebrated with great enthusiasm, fun and frolic. Parents do not need to worry that our son/daughter is not enjoying these festivals. Just wait for time to unfold....
+
+I have not even scratched the surface of these events. I leave them to you to find what first year encloses for you!! believe me , you will enjoy them. 
+
+The day before your first day of instruction, you will get your timetable for the first semester displayed on the notice board of the respective hostel. But i bet you, at first sight you will not be able to understand that timetable, so try to forge it or ask one of your seniors for help.
+  Students are divided into two groups according to their branches-
+
+ Group 1- EEE,ECE,ME,CIVIL,BT
+ Group 2-CHEMICAL,CST,DESIGN,EP,M&C,CSE
+
+In addition to these, you will be divided in different lab groups and tutorial groups. Classes of same branches having same groups are held together in lecture halls. Whereas tutorial sessions are held together for same tutorial group.
+
+Now scheduled for GROUP 1 are-
+
+0800-0900 - Tutorial classes (4 DAYS A WEEK) for both groups based on tutorial groups. In these you will be discussing assignment sheets given by profs!! Do solve them and take them very seriously!!
+  On the first day, no tutorial will be held, but do go there so as to get idea of you tutorial room. 
+  
+0900-1200 - Its lecture time!! And guys first lecture will be a great fun. Especially of Prof. S.K. Bose!! Your subjects would be - engineering drawing, maths, physics, chemistry, and electronics.
+PLEASE NEVER MISS A LECTURE!! Students doesn`t seem to care about it. Initially he strength of lecture halls is about 250-300 but within a month , you will find strength going down to as low as 50!!  Missing a lecture, intentionally, is not at all good. Dude ,you are here to study, and that`s what you are missing!!
+
+1400-1700 - Lab sessions according to your lab groups. Your labs would be-
+                     1. Engineering Drawing
+                     2. Chemistry lab
+                     3. Workshop
+ ( Note that group 2 DOES NOT have workshop in1st sem, instead they have physics lab )
+The first session of each lab will be an intro, except for engineering drawing. 
+
+
+1730-1830 - Either PE classes (2 days a week) or nso or ncc sessions.
+
+
+ Now scheduled for GROUP 2 are-
+0800-0900 - Same as group 1.
+
+0900-1200 - Lab sessions according to your lab groups. Your labs would be-
+                     1. Engineering Drawing
+                     2. Chemistry lab
+                     3.Physics lab
+ ( Note that group 1 DOES NOT have physics lab in 1st sem, instead they have workshop )
+The first session of each lab will be an intro, except for engineering drawing. 
+
+
+1400-1700 - Lecture time same as group 1.
+
+
+Note: Your tutorial rooms would be in this format , sat 2202 or 3102. Now do not think that there are 3000-4000 rooms in the academic complex!!. Its actually a naming scheme. Look- academic complex is divided in 4 parts know as "cores". So naming can be explained with an example-
+
+say 3102 - Now here "3" represents "core", that is, room is in 3rd core section.
+                  1 represents floor number, that ,is room is on first floor.
+                  02 represents room number that is its second room.
+Got it!!
+
+
+Now i found this thing important to post because while filling your registration form, you will be asked to choose among nss, ncc and nso. THEY WILL BE WITH YOU FOR 2 YEARS. Here is a description about them and a note of caution -
+
+1. NCC -
+ I hope most of you know what is ncc from school level. Now if you choose ncc, you will have regular sessions of it two times a week ( note that you already have PE sessions two times a week ). In ti , you would be doing parade and other relevant exercises along with a chance to take part in 26th Jan parade. Also you have to go in sessions with hair trimmed too short otherwise NO ATTENDANCE!!. 
+
+2.NSO-
+NSO stand for sports. So if you have die hard interest in any of sports , then you can choose them . You have to fill three sports according to your preferences. Now getting admitted to cricket, football, and badminton is difficult (for boys!!). And getting volleyball, lawn tennis,table tennis,basketball and athletics is easy.  Now how you get your choice. See, there will be selections for each sport. So while going for selections of badminton, tt and lawn tennis, do carry your rackets otherwise you will be rejected. 
+  Fill your first choice very carefully as consider this as your last choice because getting 2nd and 3rd choice sport is very difficult because seats get already full after first sort outs.
+  After selections, sessions will be held twice a week for 1.5 hrs. So choose it wisely. each sport has very good coaches who will teach you everything!!
+
+3.NSS-
+ Now the form taht you will fill will say that nss is social service in which you will help poor and needy children near the campus. But whats truth is that in nss little work is to be done, most easy to get and most relaxing. Its great, its awesome, its fun and if you ASPIRE FOR BRANCH CHANGE, THEN DO FILL NSS as your 1st choice.
+
+Note: You can get your option changed even after allotment. But changing from nso to nss is easy but from ncc to nss is most difficult. If you ever face this prob, do contact me and i will guide you .
+
+Before reading this please go through the basic requirements given on this link-
+http://www.iitg.ac.in/campus/academics 
+
+Now firstly i will explain some common related queries to branch change (bc) .
+
+1. CPI- For branch change your cpi at the end of first year should be around 8.7. Now here`s a catch. This 8.7 is a general cpi....that is according to general trend. Sometimes a branch can outshine so much that even 8.9 appears less to get branch changed. Like in 2012-2013, civil department was just rocking in acads!! If one need to get his branch change in civil that time, he should be 9+. However, each year trend changes. Who knows this time it can be chemical!!
+  Now to get 8.7 there are two ways - get around 8.3-8.4 in first semester and 9.2-9.3 in second or get 8.8 around in both sems. I guess second sem is much easier because we get settled by that time and are aware of our mistakes made in first sem!!
+
+2. No. of students applying for branch change-
+
+Almost all the students apply for it!! Be it a 6 pointer or 9 pointer...hope to hote hai na!! But the stats are that only 50-60 out of 660 get their branch changed.
+Try to look on this link-
+http://www.iitg.ac.in/acad/Branch_Change_NotificationJune_2013.PDF
+
+3. No of students getting their branch changed-
+
+Now here is also a catch. In the rules, it is written that strength of branch must not change by ore than 10%. Now lets take a real example-
+The strength of chemical engg as given in JEE brochure is 70. However only 68 registered as 2 were unable to come. Now this is a major loss to branch changers; as only 68 came ,so max 6 can change the branch instead of 7. But say at the time of branch change, 6 student exited from the branch but one student from some other branch,for ex CST, came to chemical, then one more student can exit from chemical . I hope you are able to understand this!!
+
+So basic stats look like 4 students change from CST, 6-7 from chemical, 4 from BT, many from mech because in mech both incoming and outgoing are volatile!!, rarely from M&C as its a nice branch,some from EP, many from EE to EC and EE and EC to CSE, and some from design to any branch.
+
+4. How can i change my branch??-
+
+By studying, of course. But not studying every time..NO. IIT life has more in it than just a pile of books.  A systematic approach towards studies can easily get your branch changed. However, keep in mind that bc is not a piece of cake but a take bush which is sour to eat but healthy.
+ Now the prob is that you will realize this systematic way at the end of first year...very late. However i can help you to realize it as i am a branch changer myself!!
+ SO DO TYPE YOUR QUERIES IN COMMENT OR FILL THE CONTACT FORM IF YOU WANT HELP!! YOU`RE ALWAYS WELCOME
+ 
+Please check your hostel allotment before reaching here....otherwise you will be having a hard time searching your hostel... 
+   You need to check in when you reach the hostel. For that you would be asked to fill 2 forms plus xerox copy of your iit admit card.....so do not forget to carry it with you.
+  After that you will march to your sweet room. At first it may look like the room is too small...but you will adjust to it in no time....believe me!!!
+   Now there will be a LAN port in your room which will behave as your lifeline for 4yrs...lol.
+You need to buy a lan wire from stationary shop of your hostel. My advice is that buy a 5m lan wire instead of 3m. You will know the advantage of it in 2-3 months...lol.
+ However you are not allowed to directly use the iitg lan service for about 2 weeks...sorry.
+ Also install DC++ and IPmsg in your lappy. Stay tuned for more updates on hoe to use lan service.
+ Now....some serious talks-
+   There will be small shops placed in Manas community hall for small items like SIM cards, and big items like bicycles ( these are very important for freshers as you need to walk for 5km every day!!!), do go there and buy necessary items.
+Also on the day of registration, your registration will be conducted in lecture halls 1,2,3,4. And they will be according to your branches, so do check there which lecture hall you need to go. There will be a prof sitting on the chair calling out your respective roll no  in sequence. Its better to carry all documents beforehand- 10th and 12th marksheet, iitg allotment letter, iit admit card and report card, etc. Also then you will be asked to go to jee cell in admin buliding 3rd floor to verify your details. Do carry a fevi stick there and a pen!! 
+
+Now this is the query most of you want to listen about........
+Weather condition here have been hyped by news channels to an unexpected levels. listen....you will never see any flood here. For initial 2-3 months,yes there is more than normal humidity, for ex if you leave a parle-g out for 4 hrs it will be totally numb afterwards. 
+   But the weather gets pleasant after August. Winters are not that harsh as min temp is around 7. Winter months are usually dec-jan.
+   Rainfall during july and august is normal. Not much though, But yes do carry an umbrella!!
+ Weather is best around feb and march. Very less humidity and pleasant winds blowing....so romantic...
+ And then comes April...i should say one of the worst month in terms of weather. Very humid and heavy rainfall with violent thunderstorms around april end.
+ 
+  What you must bring here.....
+
+
+Every hostel has a canteen,a fruit shop and a stationary cum departmental shop. 
+
+1. Canteen-
+
+Everything, from magi to Britannia biscuits, from lays to  ice cream, is available there. So no need to bring any eatables here. Chowmein, sandwich...everything. Thats all i  can recall about canteen. Stay tuned for updates!!
+
+2. Stationary cum departmental shop-
+
+Here you will find everything like your bathing soap (all kinds), toothpastes, toothbrush,washing powder,sunscreen,lotions.....etc. Almost vereything.
+Also you can get registers,pen and pencils, erasers.....amd all kind of stationary items. Also items like agarbattis are easily available here. Also it is the place where you can get your mobile recharged.
+NOTE: All kind of mobile networks are fully functional inside the campus :D
+
+3.Fruit shop-
+
+From Amul tetra packs to red bull cans, from any kind of milk shakes to pineapples and watermelons, from pepsi to mazza....everything.
+
+
+Things you need to bring are-
+
+1. No need to bring mattress as there will be shops providing the same. But bring at least 2 bedsheets, one blanket and one pillow (note that pillow are also available here during shopping period ) with two pillow covers. Also bring a rough bedsheets (small size) for curtains of windows or you can buy the curtains from here also.
+2. No need to bring any book.
+3. If you can bring a laptop, do bring it. Its a requirement but not a necessity. There is a well established computer center where you can study if you do not have laptops. You see , basically use of laptop is to study PDF file lectures that profs teach you in class and then upload on intranet.With laptop in hand, you can study those in your room only, otherwise you have to go to computer center.
+4. Do bring moth balls or naphthalene balls, hangers (also available here), air tight cans (as humidity is there), mirror , comb,torch with extra batteries,wrist watch. Also bring at least 2 strong locks as they are not available here.
+
+5. You can also bring a water heating kettle. Bajaj or Sunflame have good products. these are helpful in winters , in case you need warm water to drink or if you are fond of morning tea (as breakfast starts around 0730 )
+
+
+About various departments!!
+Now some serious talks!!. IITG provides courses in basically all elementary departments namely-
+
+1. Computer science and engg-
+The Department of Computer Science and Engineering at the Indian Institute of Technology Guwahati was formed in the year 1995 and provides an outstanding research environment complemented by excellence in teaching.
+The Department offers B.Tech., M.Tech., Ph.D. and Dual (M.Tech. + Ph.D.) degrees. The Department has a comprehensive curriculum on topics related to all aspects of Computer Hardware and Software with an emphasis on practical learning. The course structure is up-to-date and includes courses on nascent topics to equip our students with the latest developments in Computer Science and Engineering.
+Placements have been very good from previous 2-3 years with average package crossing Rs 15 lacs every year!!
+
+2. Electronics and Communication engg-
+The department was established during the inception of the institute in 1995 as the department of Electronics and Communication Engineering (ECE). Since its commencement, the primary objective of the department has been to impart quality education, training and research at the undergraduate, postgraduate and doctoral levels in various areas of Electronics and Communication Engineering with broad emphasis on design aspects of electronic systems.
+
+In 2008, the department had started a new B. Tech. programme in Electronics and Electrical Engineering. This programme aims at producing engineers with sound knowledge in electrical engineering and a strong background in electronics.
+3. Electronics and electrical engg
+
+Please check the site www.iitg.ac.in for further details 
+
+4. Mathematics and computing-
+
+The Department of Mathematics IIT Guwahati from its very inception in 1995 has aimed to be a center of excellence in mathematics and computing and been vigorously engaged in both research and teaching. The vision of the department is not only to transform young people to competent and motivated professionals but also to contribute to the development of the nation, particularly the North-East, through research, consultancy and training activities. The department has at present 32 energetic and dedicated faculty members, and has a good number of distinguished mathematicians visiting it every year. The department has its own state-of-the-art computing laboratory and also houses the National Board of Higher Mathematics (NBHM) Regional Library. The department has also been actively engaged in organizing conferences, workshops, QIP short term courses and Mathematics Training and Talent Search Programme (MTTS).
+
+5. Mechanical Engg-
+The Department of Mechanical Engineering, being one of the largest and oldest departments of the Institute, caters to its students with class tutorial and state-of-the-art laboratories. The Department of Mechanical Engineering  at IIT Guwahati is continuously striving to achieve excellence in education, academic and industry oriented research as well as consultancy work with service to the society. We aim to provide our students with a perfect blend of intellectual and practical experiences, that helps them to serve our society and address a variety of needs. At the end of our program, students are prepared for entry-level work as a mechanical engineer as well as for the post-graduate study in mechanical engineering or in another discipline, where a fundamental engineering background constitutes a desirable foundation. Academic course work and projects are designed to endow students with the ability to apply knowledge of science, mathematics, and engineering, and the capability to work effectively in multidisciplinary teams, providing leadership and technical expertise. With a solid grounding in the principles and practice of mechanical engineering, our undergraduates are ready to engage in ethical approaches to engineering, with concern for society and the environment.
+
+6. Chemical engg-
+- Department -
+
+Chemical Engineering department was started in 2002 with B. Tech. course and Ph. D. programme .The students strength at various courses namely, B. Tech., M. Tech. and Ph. D. are 204, 89 and 60 respectively. The department is fully supported by 26 faculty members and 11 staff. The department comprises of about 7 laboratories for the undergraduates. In addition, the department is equipped with excellent analytical instruments, computer facilities and research laboratories for the postgraduates and the research scholars.
+The B.Tech curriculum being multi-disciplinary in nature, serves the purpose of exposing students to various aspects of chemical engineering while simultaneously developing their problem solving capabilities. The program spans over eight semesters
+
+- Internships - 
+
+B.Tech students pursue a compulsory summer internship in their 6th semester. The organizations where the present batch has interned:
+
+SCHLUMBERGER,HALLIBURTON,ITC,CD,ADAPCO,RELIANCE,PEPSICO,ESSAR,IOCL,SHELL,ONGC,ABB GROUP,TECHNIP,CAIRN ENERGY,EMERSON PROCESS,GE,BOC INDIA,HPCL, SIGMA ,ALDRICH
+
+- Placements - 
+
+Top previous recruiters are - 
+
+DUPONT, FLUENT, HPCL, EIL, SCHLUMBERGER, RELIANCE, TECHNIP, FUTURE FIRST, GE, BGR ENERGY, FLIPKART, WIPRO, BOC INDIA, ITC, PWC, COAL INDIA, JINDAL STEEL, IOCL, DE SHAW, EMERSON, BAYER, DR. REDDY’S, L&T, GAIL, BCPL, MU SIGMA, ENERGO INDIA, NALCO, ONGC, SHELL, HEADSTRONG, NEROLAC.
+
+
+7. Biotechnology-
+ - Department -
+
+The Department of Biotechnology at the Indian Institute of Technology Guwahati (IITG) was established in November 2002 to contribute the fascinating and emerging area of biological sciences. It has both undergraduate (B.Tech.) and postgraduate (M.Tech. and Ph.D.) academic programmes. The Department is unique in North-Eastern India, imparting quality education and providing an excellent research environment through its ongoing programmes. It imparts training for students to make them competent, motivated engineers and scientists. The department has 30 faculty members from diverse streams and specializations. The department has developed extensive research facility and infrastructure to support the ongoing teaching and research initiatives.
+The major thrust of the department includes biochemical engineering, tissue engineering, plant biotechnology, nanobiotechnology, computational biology, cancer biology, infectious diseases and proteomics. The department has initiated efforts to establish advanced research laboratories in all the thrust areas. Apart from fundamental research, the department aims to meet the targeted demands to cater the requirements of biotechnology based industries.
+- Internships -
+Students undergo compulsory training after 6th semester and optional training after 4th semester in prestigious academic institutes and industries both in and outside India like:-
+ University of Cambridge, U.K., California Institute of Technology ,Max Planck Society, Germany, NUS, Singapore, University of Wisconsin, U.S.A ,University of Oslo, Norway ,National Centre for Biological Sciences (NCBS), Bangalore ,Pfizer ,R&D Centre, IOCL ,J.L. Pharmaceuticals ,IISc, Bangalore ,AIIMS, New Delhi ,CCMB, Hyderabad and many more .
+-Placements -
+Some of past recruiters are 
+1 Oracle-OFSS
+2 Deloitte
+3 Future First
+4 Ericsson
+5 Evalueserve
+6 RGUKT
+7 Bank of India
+8 ZS Associates
+9 Virtusa India
+10 PricewaterhouseCoopers
+11 Cubastion Consulting,Wipro,IBM-GBS,Headstrong,MphasiS ,B-Able AND MANY MORE.
+ 
+8. Chemical science and technology-
+- Department - 
+
+
+Its basically a chemistry oriented course. Includes basics of organic, physical and reaction chemistry in basic course with applications such as drug manufacturing and design (for ex making aspirin in lab) in final year.
+ This programme will prepare the you for the emerging need of qualified persons with adequate knowledge in both Chemistry and its technology related issues, in both academics and industry. It will also provide you with practical training in basic science and engineering. The technological course components include applied catalysis, drug design, medicinal chemistry, nanomaterials and nanoscience, fine and bulk chemicals, green chemical and technological practices.
+The course structure of CST is specialization in drug design, petrochemical, process industry, polymer and material science etc. with theoritical courses like thermodynamics, fluid mechanics, computational fluid dynamics, quantum and applied chemistry, etc. So the course structure is totally fine for working in an FMCG or OIL/GAS company also. 
+
+- Internships -  
+
+Opportunities are provided in -
+• ONGC
+• Asian Paints
+• Dr.Reddy’s
+• Cipla
+• IOCL
+• Symbiotech Pharmacy
+• DuPONT
+• Unibiotech Formulation
+• SHELL
+• GE Health Care
+• TATA Chemicals
+• I-TEN Corporation
+• ITC Ltd.
+• Pidilite Industries
+• Hindustan Unilever
+• HPCl
+• BPCL
+• Cumulogic Inc.
+• Tata Advinus
+• Reliance Industries
+• SAIL
+• Coulourtex
+• Sigma-Aldrich Corp
+
+- Placements -
+
+Graduates will have diverse job opportunities in the chemical industry, in pharma companies, in Biotech companies, in environment related businesses, and in R&D.
+Major recruiters this time were -
+ITC, schlumberger, Deloitte, Geometric Ltd. , global analytics, ZS associates, Ericsson, Oracle, EXL service, Wipro, BOI, Nagarro software, future first, IBM-GBS, iNautix and many more. 
+So you can see its wide ranging!!
+ 
+9.Engg physics-
+  
+- Department-
+   
+The Department has highly active and vibrant faculty members committed to impart high quality research standards in pure and applied areas of physics and also trains students to become competent and motivated physicists. The research interests of the faculty members cover broad range of physics: Condensed Matter Physics , Lasers and Photonics, High Energy, Theoretical, Mathematical Physics and Astrophysics. The department has state-of-the-art research laboratories and computational facilities
+
+- Internsip -
+
+Opportunities are provided at -
+* Max Planck Institute, Germany
+* Ecole Normale Superieure, Paris
+* Australian National University, Australia
+* University of Hannover, Germany
+* Northwestern University, Chicago
+* National University of Singapore
+* Ecole Polytechnique Montreal, Canada
+* Delft University of Technology, The Netherland
+* Conceil Europeen pour Recherche Nucleaire
+(CERN), Switzerland
+* Siemens Information System Ltd., Bengaluru
+* Helmholtz-University of Darmstadt, Germany
+* UGC-DAE Consortium for Scientific Research, Indore
+* Bharat Electronics Limited
+* Indian Institute of Science, Bengaluru
+* Tata Institute of Fundamental Research, Mumbai
+* Bhabha Atomic Research Centre, Mumbai
+* Defence Research and Development Organization,
+Hyderabad
+* Research Design and Standardisation Organisation,
+Lucknow
+* Variable Energy Cyclotron Centre, Kolkata
+* National Physical Laboratories, New Delhi 
+
+- Placements - 
+
+Major recruiters during placements are  both consulting firms, along with research firms. You will also find Engg. Physics alumni working in CERN labs!! In addition to these, IT and consultancy firms are major recruiters. So basically its a wide ranging placement scenario,
+
+10*. Design - 
+
+- Department -
+
+Design is one of the most unique, first and only one of its kind course provided my Department of design, IITG. This is a very unique course with balanced course structure which gives you a B.Des degree. The focus of the program is on the study, invention, and creative use of technologies to create effective, usable, enjoyable experiences with technology through interdisciplinary research in engineering, design, behavioral and social sciences, and to understand the impact of technology on individuals, groups, and organizations. The department envisions to produce successful graduates who will be capable of leading the changing scenarios of today and tomorrow through thought, innovation and values.
+
+- Internship - 
+
+It provides ample of opportunities, both for interns as well as placements, ranging from Google to RIL. Internsip opurtunities are provided in companies like Microsoft, IBM, Intuit IDC,HCL, Juniper, Godrej, Oracle, Cordys, Xerox Parc Labs, France, Deutsche Telekom, University of British Columbia, Canada, TU Berlin, Germany, TU Eindhoven, Netherlands, Carleton University, Canada, Karlstad University, Sweden, and many other.
+
+- Placements -
+
+ Placement companies are -
+▪ Microsoft
+▪ DE Shaw
+▪ Flipkart
+▪ Accenture
+▪ Cognizant
+▪ Directi
+▪ Clarice Technologies
+▪ Infosys, Geodesic
+▪ Cordys
+▪ Mindtree
+▪ AVACorp
+▪ Zensar, Wipro
+▪ Texity Systems
+▪ Grail Research
+▪ Compassites Software Solutions
+
+Now most of you are concerned about how your hostel is and what is in it for you, so i have decided to update this post for you.
+
+I would first suggest you to check your hostel allotment on net before coming here. Most of the students do not check it and then just roam from here to there. for girls, no such problem is there as there is only one girl hostel.
+Everybody please check your hostel allotment here-
+
+http://www.iitg.ernet.in/hostelacc/BTech.pdf
+
+ Basic specifications of EVERY hostel are -
+
+A. Single rooms to all. So its great and its freedom of self. In older hostels like Kapili, Manas, Dihing, and Siang, there is a balcony provide in each room so you can enjoy the rain. However in new hostels like Barak, Kameng , Umiam there is no balcony as its space have been included in rooms so they have bigger rooms. However in Subansiri, 2 girls per room are allotted. 
+
+B. Each room has an attched cupboard where you can keep your belongings. There is a tube-light, a fan, a socket and switches.
+
+C. Each room has a LAN socket where you can attach your LAN wire and can enjoy internet service.
+
+D. Every hostel has a mess, a canteen, a fruit shop and a stationary cum departmental shop.
+
+E. In addition to this, every hostel has a sports room where there is a TT table. You can get TT bat from reception, and are available in every hostel.You can play round the clock ant time. However i have no idea what sports facility are there in Subansiri!!
+
+F. Every hostel has a playground where you can play football and cricket.
+
+G. Every hostel has washing machine(s) for students to wash their clothes. The number of washing machine may vary from 2 to 4 (depending on size of the hostel). In addition to these,  there are water heaters (geysers) available in each washroom working 24X7 a week.
+
+
+Boy`s hostel are-
+
+1. Siang-  All B.Techs hostel from year 2015. Mess at siang hostel is really good. The hostel enjoys the best location- ranging from SAC to girls hostel, lecture theaters to acads building....everything is most convenient to a siang hosteler.
+ Like your hostel page-https://www.facebook.com/sianghostel
+
+2.Kapili- Near siang. It has only btechs. 1st, 2nd,3rd,and 4th yearites. nice mess, nice canteen, and  nice location. A very lively atmosphere prevails here.
+ Join your hostel group-https://www.facebook.com/groups/kapili/
+
+3.Dihing- A bit far away and located near Manas. All B.Techs.
+Join your hostel group-https://www.facebook.com/groups/481621911849917/
+
+4.Manas - A bit far away however one of the best hostels in terms pf facilities provided. Manas community hall (located just adjacent to it) is the place where shopping period is organized for freshers.  But mess food quality of Manas is the best.
+Join your hostel group-https://www.facebook.com/groups/manashostel/?ref=br_rs
+ 
+ 5. Kameng, Umiam and Barak. - These are new hostels and quite big. there is no balcony but its space has been compensated in rooms so rooms are bigger.  Kameng has one of the best mess system, very good canteen, and only hostel to have a snooker table. Its the 2nd biggest hostel but is farthest from lecture halls and academic complex. Barak is situated adjacent to Kameng. Quite big, nice sports room and mess. Also has PhD scholars and M.Techs in it but no 4th yearites. Umiam is situated next to barak. Nice mess and hostel.Has all B.techs.
+
+6. Subansiri - Its big and getting bigger. Girls are allotted rooms as 2 per room. Room design is basically similar to older boys hostel like Kapili or Manas : each room having a balcony, 1 or 2 fan, tubelight, cupboard (attached) , 2 lan connections etc. The hostel has all facilities like stationary cum departmental shop, fruit shop ,canteen, a big tv room and they should be probably having a sports room too...lol. 
+The best thing about it is it`s location. Its situated adjacent to SAC(student activity center), and lawn tennis court. Professor`s bunglow are siuated in front of it. Behind it is the guest house and guest house lake. Its also very near to IITG hospital, auditorium and lecture halls.
+
+How to reach here!!!
+i wont talk much in this as you already have received a freshers guide...it contains all the information in it. On reaching the railway station, you will find your 2nd year bhaiya`s waiting to help you. Their will be a bus havin IITG BUS SERVICE banner in front of it. Just aboard it and it will take you to your dream institute..
+ Similarily with airports too....
